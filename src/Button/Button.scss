@@ -1,0 +1,9 @@
+@import '../variable.scss';
+
+.btn-control {
+    width: 80px;
+    height: 30px;
+    background-color: $green;
+    color: $textColor;
+    margin-top: 10px;
+}
